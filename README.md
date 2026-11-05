@@ -13,7 +13,7 @@ Most of my professional work lives in private repositories, so this profile is w
 
 ## 🔨 Building now
 
-🏠 **AI real estate search:** regular filters plus an AI assistant, showing when the same property is listed by several agencies. Fictional data. _Repository coming soon._
+🏠 **AI real estate search:** regular filters plus an AI assistant, showing when the same property is listed by several agencies. Fictional data. [Follow the progress](https://github.com/bcarvalho89/farolar).
 
 ## 🛠️ Stack
 
